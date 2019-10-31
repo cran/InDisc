@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("optimbase","transpose")
+importFrom("optimbase","size")
+importFrom("utils", "setTxtProgressBar", "txtProgressBar")
