@@ -1,4 +1,5 @@
 exportPattern("^[[:alpha:]]+")
 importFrom("optimbase","transpose")
 importFrom("optimbase","size")
-importFrom("utils", "setTxtProgressBar", "txtProgressBar")
+importFrom("utils", "setTxtProgressBar", "txtProgressBar","flush.console")
+importFrom("stats", "qnorm", "sd")
