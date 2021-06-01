@@ -74,12 +74,12 @@ Determines if the output will be displayed in the console, TRUE by default. If i
   }
 }
 \references{
-Ferrando, P. J. (2019). A Comprehensive IRT Approach for Modeling Binary, Graded, and Continuous Responses With Error in Persons and Items. Applied Psychological Measurement, 43(5), 339-359. \url{https://doi.org/10.1177/0146621618817779}
+Ferrando, P. J. (2019). A Comprehensive IRT Approach for Modeling Binary, Graded, and Continuous Responses With Error in Persons and Items. Applied Psychological Measurement, 43(5), 339-359. \doi{10.1177/0146621618817779}
 
 Ferrando, P. J. & Navarro-Gonzalez, D.(2020). A multidimensional IRT model for continuous and graded responses with error in persons and items. Educational and Psychological Measurement (submitted).
 
 
-McDonald, R. P. (1982). Linear versus models in item response theory. Applied Psychological Measurement, 6, 379-396. \url{https://doi.org/10.1177/014662168200600402}
+McDonald, R. P. (1982). Linear versus models in item response theory. Applied Psychological Measurement, 6, 379-396. \doi{10.1177/014662168200600402}
 
 Revelle, W. (2018) psych: P Procedures for Personality and Psychological Research, Northwestern University, Evanston, Illinois, USA, \url{https://CRAN.R-project.org/package=psych} Version = 1.8.12.
 

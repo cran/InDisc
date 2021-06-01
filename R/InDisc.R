@@ -330,8 +330,8 @@ InDisc <- function(SCO, nfactors = 1, nquad = 30, model = "linear", approp = FAL
          OUT2 <- rlrtest(SCO, mu, lam, cvar ,vres, th0, theta, person_var)
        }
        else { #graded
-         th0 <- reapth17g(THRES, SCO, alpha, vres, nodos1, cvar, display)[,1]
-         OUT2 <-rlrtesg(THRES, SCO, alpha, cvar, vres, th0, theta, person_var)
+         th0 <- reapth17g(THRES0, SCO, alpha, vres, nodos1, cvar, display)[,1]
+         OUT2 <-rlrtesg(THRES0, SCO, alpha, cvar, vres, th0, theta, person_var)
        }
 
       LR <- OUT2[,1]

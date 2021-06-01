@@ -1,6 +1,6 @@
-acb07607d876bdef08b7229fc81a996a *DESCRIPTION
+bb4a470e90ab1e1e713ea6120e7dd866 *DESCRIPTION
 62a03a1f93eecf32bce4009ba1826f47 *NAMESPACE
-71d8604f5bf3dd86b73548ccba05006d *R/InDisc.R
+b14238b98e64ee61ebca9ce0d7bc0f19 *R/InDisc.R
 b221e7856c97064cca8bf64067f13954 *R/betagradm.R
 3b859b0f4798b3f5de1e564afe22008d *R/chis.R
 9cb83e9160fff4e31384267235f66d48 *R/creanchi.R
@@ -43,8 +43,9 @@ fd281048e09f3a836805c1f09ccd1008 *R/rlrtest.R
 9590b50afb27ef8513b0a29ec73794f2 *R/thresdic.R
 377e6843dce3aedfb7d8efe6aa731386 *R/thresholds.R
 d84e24d0efd23f95f65b5e71307a3114 *R/verosi2.R
+c5b702406fcee415e328eaf6beb9f67a *build/partial.rdb
 0d371c90f5da2bcc82b3d2edeebd5b35 *data/CTAC35.rda
 910b4618fcb4c1567ff3e7fdc5ea61ea *man/CTAC35.Rd
-d9582dcbe510cd250c552784d98e47d6 *man/InDisc.Rd
+3e958f64b69db98f573126736c00d4e7 *man/InDisc.Rd
 12b3e3f7ced77b1f47a83cc3b787e915 *man/indisc-internal.Rd
-e6700a986fd995682ef788e105909a6a *man/indisc-package.Rd
+78fcd6bdb6f5aafea8df882043dc3a8b *man/indisc-package.Rd
