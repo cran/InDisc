@@ -42,6 +42,8 @@
 \alias{thres4}
 \alias{thres5}
 \alias{thresdic}
+\alias{size}
+\alias{transpose}
 \title{
 InDisc-internal
 }
@@ -68,6 +70,8 @@ rlrtesg
 rlrtest
 thresholds
 verosi2
+size
+transpose
 }
 \author{
 Pere Joan Ferrando

@@ -58,9 +58,9 @@ InDisc <- function(SCO, nfactors = 1, nquad = 30, model = "linear", approp = FAL
 
 
   #mean of each item
-  mu <- optimbase::transpose(colMeans(SCO))
+  mu <- transpose(colMeans(SCO))
 
-  muc <- optimbase::transpose(colMeans(SCOc))
+  muc <- transpose(colMeans(SCOc))
 
   if (model == "linear"){
 
